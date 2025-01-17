@@ -82,9 +82,3 @@ Header:
    - `http://localhost:port_no/feed?username=your_username&category_id=category_id_user_want_to_see&mood=user_current_mood
    - `http://localhost:port_no/feed?username=your_username&category_id=category_id_user_want_to_see
    - `http://localhost:port_no/feed?username=your_username
-
-- Shortlisted candidates will be notified within 24 hours of project evaluation.
-
-For any questions about the submission process, please reach out to me on [Telegram](https://t.me/+VljbLT8o75QxN2I9).
-
-Good luck with your submission!
